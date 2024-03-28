@@ -389,7 +389,7 @@ the User, Engineering Company, Project, Test, and Testing entities, including th
 cardinalities.
 
 
-![Alt text](/assets/ERD_GeoLab(2).png?raw=true "ERD_GeoLab")
+![Alt text](/assets/ERD_GeoLab(3).png?raw=true "ERD_GeoLab")
 Entity-Relationship Diagram (ERD) for GeoLab API project
 
  
